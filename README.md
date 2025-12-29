@@ -45,5 +45,38 @@ python 1emailsender.py
 
 
 ---
+# 2. 🔁 Word Replacement using Python
+
+A simple beginner Python project that replaces a word in a sentence using user input.
+
+Part of my 20 Basic Python Projects series.
+
+## ✨ Features
+
+Takes user input
+
+Replaces a word in a sentence
+
+Uses Python string replacement
+
+Beginner-friendly logic
+
+## ▶️ How to Run
+```bash
+python 2wordreplacement.py
+```
+
+
+## 🧠 Example
+Original sentence:
+Hello friends, i am pratham, hi hi hi
+
+Enter the word to replace: hi
+Enter the word replacement: hello
+
+Output:
+Hello friends, i am pratham, hello hello hello
+---
+
 
 
