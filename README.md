@@ -39,6 +39,8 @@ python 1emailsender.py
 ## 📸 Screenshot
 
 **Email successfully received:**
+<img width="1525" height="985" alt="image" src="https://github.com/user-attachments/assets/5d25e05b-0979-43bc-bf39-2d13c90822f9" />
+
 
 
 
