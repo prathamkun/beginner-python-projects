@@ -49,7 +49,6 @@ python 1emailsender.py
 
 A simple beginner Python project that replaces a word in a sentence using user input.
 
-Part of my 20 Basic Python Projects series.
 
 ## ✨ Features
 
