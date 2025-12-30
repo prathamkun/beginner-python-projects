@@ -76,6 +76,45 @@ Enter the word replacement: hello
 Output:
 Hello friends, i am pratham, hello hello hello
 ---
+# 🧮 Calculator using Python
 
+A simple menu-driven calculator built using Python that performs basic arithmetic operations.
+
+## ✨ Features
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Menu-driven program
+
+Runs continuously until user exits
+
+## ▶️ How to Run
+```
+python 3calculator.py
+```
+
+## 🧠 How It Works
+
+User selects an operation from the menu
+
+Enters two numbers
+
+Result is displayed
+
+Program repeats until Exit is chosen
+
+## 📌 Example
+A. Addition
+B. Subtraction
+C. Multiplication
+D. Division
+E. Exit
+---
 
 
