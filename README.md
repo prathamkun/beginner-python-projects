@@ -76,7 +76,7 @@ Enter the word replacement: hello
 Output:
 Hello friends, i am pratham, hello hello hello
 ---
-# 🧮 Calculator using Python
+# 3.🧮 Calculator using Python
 
 A simple menu-driven calculator built using Python that performs basic arithmetic operations.
 
