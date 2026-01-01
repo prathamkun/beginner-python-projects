@@ -215,6 +215,141 @@ Final score and percentage display
 
 Beginner-friendly logic
 ---
+# 7.💰 Loan Interest Calculator (Python)
+
+A simple Python program that calculates the monthly loan payment based on loan amount, annual interest rate, and loan duration.
+
+## 🚀 How it works
+
+Takes loan amount (principal)
+
+Takes annual interest rate (APR)
+
+Takes loan duration in years
+
+Calculates and displays the monthly payment
+
+## ▶ Example
+Input the loan amount: 500000
+Input the annual interest rates: 7.5
+Input amount of years: 20
+The monthly payment for this loan is: 4027.97
+
+## 🛠 Tech Used
+
+Python 3
+
+Basic math operations
+
+## 📌 Notes
+
+Interest rate should be entered as a percentage
+
+Output is rounded to 2 decimal places
+
+Assumes fixed-rate loan
+---
+# 8.🔐 Random Password Generator (Python)
+
+A simple Python program that generates a strong random password using letters, numbers, and special characters.
+
+## 🚀 How it works
+
+Asks the user whether to generate a password
+
+Takes desired password length as input
+
+Randomly selects characters and shuffles them
+
+Displays the generated password
+
+## ▶ Example
+Do you want to generate a password? (Yes/No): Yes
+How long would you like your password to be? 12
+A9$kP2@Qm#8Z
+
+## 🛠 Tech Used
+
+Python 3
+
+random module
+
+string module
+
+## 📌 Notes
+
+Uses uppercase, lowercase, digits, and symbols
+
+Password is randomized for better security
+
+Type Yes or No when prompted
+---
+# 9.🎲 Dice Rolling Simulator (Python)
+
+A simple Python program that simulates rolling two dice and displays their values using ASCII art.
+
+## 🚀 How it works
+
+Prompts the user to roll the dice
+
+Generates two random numbers between 1 and 6
+
+Displays the dice values and their visual representation
+
+Continues rolling until the user chooses No
+
+## ▶ Example
+Roll the dice? (Yes/No): Yes
+dice rolled: 4 and 6
+
+## 🛠 Tech Used
+
+Python 3
+
+random module
+
+Dictionaries and loops
+
+## 📌 Notes
+
+Input is case-insensitive (Yes, yes, YES)
+
+Press Ctrl + C to exit anytime
+---
+# 10.🌐 Site Connectivity Checker (Python)
+
+A simple Python program that checks whether a website is reachable by attempting a connection and displaying the HTTP response code.
+
+## 🚀 How it works
+
+Takes a website URL as input
+
+Tries to connect using urllib.request
+
+Displays a success message if the site is reachable
+
+Shows the HTTP response status code
+
+## ▶ Example
+Input the url of the site you want to check: https://www.google.com
+Checking connectivity
+Connected to https://www.google.com successfully
+The response code was: 200
+
+## 🛠 Tech Used
+
+Python 3
+
+urllib.request
+
+## 📌 Notes
+
+Internet connection is required
+
+HTTPS sites may raise SSL certificate errors if certificates are not installed
+
+Press Ctrl + C to stop the program
+---
 
 
 
