@@ -412,6 +412,40 @@ Correctly follows the Gregorian calendar rules
 
 Useful for beginner practice with if-else logic
 ---
+# 13.📘 Word Dictionary (Python)
+
+A simple Python program that works like a mini dictionary, displaying meanings of predefined words entered by the user.
+
+## 🚀 How it works
+
+Stores words and their meanings in a dictionary
+
+Takes a word as user input
+
+Displays the meaning if the word exists
+
+Ends the program when the user presses Enter without typing a word
+
+## ▶ Example
+Enter a word: hi
+hi : a way of greeting
+
+## 🛠 Tech Used
+
+Python 3
+
+Dictionaries
+
+Loops and conditionals
+
+## 📌 Notes
+
+Case-sensitive input
+
+Only predefined words are supported
+
+Designed for beginner practice
+---
 
 
 
