@@ -380,6 +380,38 @@ Exchange rate is based on 1st January and may change
 
 Intended for learning purposes
 ---
+# 12.📅 Leap Year Checker (Python)
+
+A simple Python program that checks whether a given year is a leap year or not using standard leap year rules.
+
+## 🚀 How it works
+
+Takes a year as input
+
+Applies leap year conditions:
+
+Divisible by 4
+
+Not divisible by 100 unless divisible by 400
+
+Prints whether the year is a leap year
+
+## ▶ Example
+Input: 2028
+Output: Leap Year
+
+## 🛠 Tech Used
+
+Python 3
+
+Conditional statements
+
+## 📌 Notes
+
+Correctly follows the Gregorian calendar rules
+
+Useful for beginner practice with if-else logic
+---
 
 
 
