@@ -350,6 +350,36 @@ HTTPS sites may raise SSL certificate errors if certificates are not installed
 
 Press Ctrl + C to stop the program
 ---
+# 11.💱 Currency Converter (USD to GBP) – Python
+
+A simple Python program that converts US Dollars (USD) into British Pounds Sterling (GBP) using a fixed exchange rate.
+
+## 🚀 How it works
+
+Takes an amount in US dollars as input
+
+Converts it to pounds using a predefined rate
+
+Displays the converted amount
+
+## ▶ Example
+Enter amount in dollars: 100
+That is 74.0 pounds.
+
+## 🛠 Tech Used
+
+Python 3
+
+Functions and lambda expressions
+
+## 📌 Notes
+
+Uses a fixed exchange rate (1 USD = 0.74 GBP)
+
+Exchange rate is based on 1st January and may change
+
+Intended for learning purposes
+---
 
 
 
