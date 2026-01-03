@@ -490,6 +490,50 @@ Input must be typed correctly (rock, paper, scissors, exit)
 
 Designed for beginner practice
 ---
+# 15.⏰📩 Automated SMS Sender (Python)
+
+A Python program that automatically sends an SMS message at scheduled intervals using the Textbelt API.
+
+## 🚀 How it works
+
+Uses schedule to run tasks at fixed times or intervals
+
+Sends an SMS using an HTTP POST request
+
+Repeats automatically while the program is running
+
+## ▶ Example
+Message sent successfully
+{'success': True, 'quotaRemaining': 0}
+
+## 🛠 Tech Used
+
+Python 3
+
+requests module
+
+schedule module
+
+time module
+
+Textbelt API
+
+## 📌 Notes
+
+Replace #yourphonenumberhere with a valid phone number
+
+Free Textbelt API has limited quota
+
+Program must keep running to send messages
+
+Current setup sends a message every 10 seconds
+
+## ⚠️ Important
+
+Do not spam phone numbers
+
+Use responsibly and for learning purposes
+---
 
 
 
