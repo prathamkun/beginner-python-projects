@@ -534,6 +534,79 @@ Do not spam phone numbers
 
 Use responsibly and for learning purposes
 ---
+# 16.🖼️ Image Resizer (Python)
+
+A simple Python program that resizes an image to user-defined dimensions using the Pillow (PIL) library.
+
+## 🚀 How it works
+
+Loads an image using PIL
+
+Displays the original image size
+
+Takes new width and height as input
+
+Resizes the image
+
+Saves the resized image with a new name
+
+## ▶ Example
+Enter Width: 400
+Enter Length: 300
+Current size: (1920, 1080)
+
+## 🛠 Tech Used
+
+Python 3
+
+Pillow (PIL)
+
+## 📌 Notes
+
+Replace #yourimagenamehere with the actual image file name
+
+Output image is saved as a .jpeg file
+
+## Ensure Pillow is installed:
+```
+
+pip install pillow
+```
+---
+# 17.📊 Graph Plotter (Python)
+
+A simple Python program that plots two line graphs on the same chart using Matplotlib.
+
+## 🚀 How it works
+
+Defines X and Y values for two lines
+
+Plots both lines on the same graph
+
+Adds labels, title, and legend
+
+Displays the graph window
+
+## ▶ Example
+Line 1: (2,4), (4,3), (5,6), (6,7)
+Line 2: (1,1), (2,2), (3,3), (4,4)
+
+## 🛠 Tech Used
+
+Python 3
+
+Matplotlib
+
+## 📌 Notes
+
+Requires matplotlib library:
+```
+
+pip install matplotlib
+```
+
+
+Useful for learning basic data visualization
 
 
 
