@@ -446,6 +446,51 @@ Only predefined words are supported
 
 Designed for beginner practice
 ---
+# 14.✊📄✂️ Rock Paper Scissors (Python)
+
+A simple command-line Rock, Paper, Scissors game where the user plays against the computer and scores are tracked.
+
+## 🚀 How it works
+
+User chooses rock, paper, scissors, or exit
+
+Computer randomly selects an option
+
+Winner is decided based on game rules
+
+Scores are updated and displayed
+
+Game ends when the user types exit
+
+## ▶ Example
+Choose rock, paper, scissors or exit: rock
+Your input is rock
+Computer input is scissors
+You Win!
+
+## 🛠 Tech Used
+
+Python 3
+
+random module
+
+Loops and conditional statements
+
+## 📌 Features
+
+Continuous gameplay
+
+Score tracking for user and computer
+
+Simple text-based interface
+
+## ⚠️ Note
+
+Input must be typed correctly (rock, paper, scissors, exit)
+
+Designed for beginner practice
+---
+
 
 
 
