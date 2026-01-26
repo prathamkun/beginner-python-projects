@@ -1,4 +1,4 @@
-import os
+import 
 
 FILE_NAME = "expenses.txt"
 
